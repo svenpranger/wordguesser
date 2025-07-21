@@ -1,0 +1,2 @@
+name|score|correctwords|totalguesses|totalmistakes|help|date
+Sven|707|8|87|40|1|2025-07-21
